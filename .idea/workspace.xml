@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7716b42c-76ae-4dae-95c3-da4fc82483d8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_012.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/aealarabiya.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/aealarabiya.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/aefurat.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/aefurat.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensed.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensed.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansextralight.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansextralight.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmono.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmono.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonob.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonob.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonobi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonobi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonoi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonoi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserif.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserif.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensed.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensed.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemono.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemono.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonob.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonob.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonobi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonobi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonoi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonoi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserif.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserif.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourier.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourierb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourierbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourieri.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelvetica.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelveticab.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelveticabi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelveticai.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfasymbol.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimes.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimesb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimesbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimesi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfazapfdingbats.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/include/sRGB.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/admin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/avatar04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/avatar5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/blur-background04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/blur-background08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/blur-background09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/boxed-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/boxed-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/credit/american-express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/credit/cirrus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/credit/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/credit/mestro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/credit/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/credit/paypal2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/credit/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/default-50x50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/detail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/sprite-skin-nice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user1-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user2-160x160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user3-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user4-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user5-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user6-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user7-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/img/user8-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/1_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/1_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/2_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/2_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/3_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/3_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/4_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/4_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/5_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/5_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/sprite.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/admin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/body_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/header_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/icon_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/icon_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/left_menu_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/log_out_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/log_out_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/text_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/images/view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/plugins/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/plugins/icons_hidpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/plugins/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/plugins/icons_hidpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/img/alpha-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/img/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/img/hue-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/flat@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/futurico/futurico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/futurico/futurico@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/line@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/minimal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/minimal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/texb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/035c577752a1611b7b58169445a01823.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/05167a0ffe50c4eeaae68f78b6d7fcfa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/1969c7af363ee07969de9659d8eb38a5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/1ce0cf0261348df861a66dc2f949cf73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/54d8c5fd9839c6664817b74872a05c05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/558487163129e45f96f1768674291ac6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/5a507775f43959257c000007758635fd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/709c0cb4432808bc1cf819b796278046.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/76b758ad62caf6b9a1366e3bd84c7b4d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/793e318cef70c8523042877e3a80d888.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/7d6c4656f4cceae8e74e6526fb67a1e7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/957aa9cfee8534f294779ac5bef3bb68.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/b7e5e3b85e591ecc570e7e28f7532c70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/b8beb0c8494685f0699d33c6fb5e4f4c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/be8774657bd815991e9056f19f7e452c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/c9dff7bb85b871458530e0d8efe73bb2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/d8ac782eb55e161b8db91795b0407301.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/de5d401851b75e79840e3172ba1b2c89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dutta_accounts.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/customers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/pwd_reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/users.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/hooks/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Pdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/CHANGELOG.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/LICENSE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/config/tcpdf_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_001.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_002.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_003.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_004.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_005.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_006.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_008.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_009.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_010.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_011.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_012.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_013.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_014.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_015.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_016.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_017.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_018.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_019.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_020.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_021.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_022.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_023.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_024.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_025.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_026.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_027.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_028.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_029.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_030.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_031.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_032.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_033.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_034.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_035.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_036.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_037.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_038.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_039.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_040.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_041.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_042.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_043.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_044.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_045.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_046.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_047.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_048.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_049.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_050.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_051.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_052.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_053.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_054.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_055.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_056.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_057.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_058.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_059.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_060.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_061.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_062.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_063.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_064.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/example_065.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/examples/tcpdf_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/aealarabiya.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/aefurat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/cid0cs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/cid0ct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/cid0jp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/cid0kr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/courier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/courierb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/courierbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/courieri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusanscondensedi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansextralight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmono.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonobi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavusansmonoi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserif.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifcondensedi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/dejavuserifi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemono.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonobi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freemonoi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freesansi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserif.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/freeserifi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/helvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/helveticab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/helveticabi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/helveticai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/hysmyeongjostdmedium.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/kozgopromedium.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/kozminproregular.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/msungstdlight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourierb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourierbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfacourieri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelveticab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelveticabi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfahelveticai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfasymbol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimesb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimesbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfatimesi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/pdfazapfdingbats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/stsongstdlight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/symbol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/times.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/timesb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/timesbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/timesi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/uni2cid_ac15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/uni2cid_ag15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/uni2cid_aj16.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/uni2cid_ak12.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/fonts/zapfdingbats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/include/tcpdf_colors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/include/tcpdf_filters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/include/tcpdf_font_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/include/tcpdf_fonts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/include/tcpdf_images.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/include/tcpdf_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tcpdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tcpdf_autoconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tcpdf_barcodes_1d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tcpdf_barcodes_2d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tcpdf_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tcpdf_parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tools/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tcpdf/tools/tcpdf_addfont.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/customers_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/dashboard_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/encrypt_decrypt_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/login_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/pwd_reset_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/users_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/web_setting_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/third_party/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/add_customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/add_user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/bootstrap-less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/bootstrap-less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/404_500_errors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/AdminLTE.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/bootstrap-social.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/boxes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/callout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/direct-chat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/fullcalendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/info-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/invoice.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/lockscreen.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/login_and_register.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/mailbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/miscellaneous.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/products.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/small-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/table.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/timeline.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/users-list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/build/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/common/foot_loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/common/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/common/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/common/head_loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/common/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/common/left_bar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/customer_detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/customers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/documentation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/lower.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/UI/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/UI/general.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/UI/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/UI/modals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/UI/sliders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/UI/timeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/charts/flot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/charts/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/charts/morris.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/invoice-print.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/lockscreen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/examples/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/forms/advanced.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/forms/editors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/forms/general.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/layout/boxed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/layout/fixed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/layout/top-nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/mailbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/tables/data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/tables/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pages/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/pwd_reset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/upper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/users.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/css/viewstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/css/AdminLTE.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/css/AdminLTE.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/css/style_1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/css/style_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/css/style_3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/dataTables/css/dataTables.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/dataTables/css/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/dataTables/js/dataTables.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/dataTables/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/dataTables/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/dataTables/js/range_dates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/js/app-old.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/js/app.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/js/pages/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/js/pages/dashboard2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/dist/js/widgets/direct-chat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/ajax.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/iframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/lib/jquery-1.10.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/lib/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/fancybox/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/adapters/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/build-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/appendto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/datafiltering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/divreplace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/inlineall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/inlinebycode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/inlinetextarea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/readonly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/replacebyclass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/replacebycode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/sample.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/sample_posteddata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/tabindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/uicolor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/uilanguages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/samples/xhtmlstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/ckeditor/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/bootstrap-slider/bootstrap-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/bootstrap-slider/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/chartjs/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/chartjs/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/adapters/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/build-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ckeditor/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/bootstrap-colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/bootstrap-colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/bootstrap-colorpicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/colorpicker/bootstrap-colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datatables/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.nl-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/datepicker/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/daterangepicker/daterangepicker-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.colorhelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.colorhelpers.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.canvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.categories.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.crosshair.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.errorbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.errorbars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.fillbetween.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.navigate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.navigate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.selection.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.stack.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.symbol.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.threshold.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/flot/jquery.flot.time.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/fullcalendar/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/fullcalendar/fullcalendar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/flat/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/futurico/futurico.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/icheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/line/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/iCheck/minimal/minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/input-mask/jquery.inputmask.date.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/input-mask/jquery.inputmask.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/input-mask/jquery.inputmask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/input-mask/jquery.inputmask.numeric.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/input-mask/jquery.inputmask.phone.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/input-mask/jquery.inputmask.regex.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ionslider/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ionslider/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ionslider/ion.rangeSlider.skinFlat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/ionslider/ion.rangeSlider.skinNice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/jQueryUI/jquery-ui-1.10.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/jQueryUI/jquery-ui-1.10.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/jqueryKnob/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/jvectormap/jquery-jvectormap-1.2.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/misc/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/misc/jquery.ba-resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/misc/jquery.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/misc/modernizr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/misc/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/morris/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/morris/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/morris/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/pace/pace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/slimScroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/slimScroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/sparkline/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/sparkline/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/timepicker/bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/timepicker/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/timepicker/bootstrap-timepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/plugins/timepicker/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/scripts/ssp.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/asset/scripts/transations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Benchmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/URI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_active_rec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/array_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/captcha_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/cookie_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/date_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/directory_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/download_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/email_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/file_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/form_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/html_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/inflector_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/language_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/number_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/path_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/security_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/smiley_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/string_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/text_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/typography_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/url_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/xml_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/calendar_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/date_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/db_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/email_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/ftp_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/imglib_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/migration_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/number_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/profiler_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/upload_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Encrypt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Form_validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Ftp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Image_lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Javascript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Sha1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Trackback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Typography.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Unit_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/User_agent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Zip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/javascript/Jquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/javascript/index.html" />
+    </list>
+    <ignored path="dutta_accounts.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dutta_accounts" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/pwd_reset.php" />
+        <option value="$PROJECT_DIR$/application/controllers/upload.php" />
+        <option value="$PROJECT_DIR$/application/models/receipts_model.php" />
+        <option value="$PROJECT_DIR$/application/models/reports_model.php" />
+        <option value="$PROJECT_DIR$/application/models/transactions_model.php" />
+        <option value="$PROJECT_DIR$/application/models/users_model.php" />
+        <option value="$PROJECT_DIR$/application/models/vendors_model.php" />
+        <option value="$PROJECT_DIR$/application/models/web_setting_model.php" />
+        <option value="$PROJECT_DIR$/application/models/customers_model.php" />
+        <option value="$PROJECT_DIR$/application/models/invoices_model.php" />
+        <option value="$PROJECT_DIR$/application/views/bills/bills.php" />
+        <option value="$PROJECT_DIR$/application/views/receipts.php" />
+        <option value="$PROJECT_DIR$/asset/css/login.css" />
+        <option value="$PROJECT_DIR$/application/models/login_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/bills.php" />
+        <option value="$PROJECT_DIR$/application/controllers/customers.php" />
+        <option value="$PROJECT_DIR$/application/controllers/invoices.php" />
+        <option value="$PROJECT_DIR$/application/controllers/login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/receipts.php" />
+        <option value="$PROJECT_DIR$/application/controllers/reports.php" />
+        <option value="$PROJECT_DIR$/application/controllers/users.php" />
+        <option value="$PROJECT_DIR$/application/controllers/vendors.php" />
+        <option value="$PROJECT_DIR$/application/controllers/transactions.php" />
+        <option value="$PROJECT_DIR$/application/views/add_expense.php" />
+        <option value="$PROJECT_DIR$/application/views/add_income.php" />
+        <option value="$PROJECT_DIR$/application/views/transaction_detail.php" />
+        <option value="$PROJECT_DIR$/application/views/common/head_loader.php" />
+        <option value="$PROJECT_DIR$/application/models/bills_model.php" />
+        <option value="$PROJECT_DIR$/application/views/bills.php" />
+        <option value="$PROJECT_DIR$/application/views/customers.php" />
+        <option value="$PROJECT_DIR$/application/views/pwd_reset.php" />
+        <option value="$PROJECT_DIR$/application/views/reports.php" />
+        <option value="$PROJECT_DIR$/application/views/transactions.php" />
+        <option value="$PROJECT_DIR$/application/views/users.php" />
+        <option value="$PROJECT_DIR$/application/views/vendors.php" />
+        <option value="$PROJECT_DIR$/application/views/invoices.php" />
+        <option value="$PROJECT_DIR$/application/views/upload_form.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/common/left_bar.php" />
+        <option value="$PROJECT_DIR$/application/models/pwd_reset_model.php" />
+        <option value="$PROJECT_DIR$/d8882_accounts.sql" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/models/dashboard_model.php" />
+        <option value="$PROJECT_DIR$/application/views/common/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/common/header.php" />
+        <option value="$PROJECT_DIR$/application/controllers/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/models/encrypt_decrypt_model.php" />
+        <option value="$PROJECT_DIR$/accounts.sql" />
+        <option value="$PROJECT_DIR$/application/views/dashboard.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="1932" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dutta_accounts" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7716b42c-76ae-4dae-95c3-da4fc82483d8" name="Default" comment="" />
+      <created>1488613662042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488613662042</updated>
+      <workItem from="1488613664182" duration="126000" />
+      <workItem from="1488613830138" duration="2758000" />
+      <workItem from="1488620354333" duration="782000" />
+      <workItem from="1488826321426" duration="647000" />
+      <workItem from="1490986957471" duration="42483000" />
+      <workItem from="1491391218540" duration="10021000" />
+      <workItem from="1491401998463" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56828000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="0" width="1932" height="1038" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21305841" sideWeight="0.50431037" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.203125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21305841" sideWeight="0.49568966" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/transactions.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/transaction_detail.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/bills_model.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/errors/error_php.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/errors/error_general.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/errors/error_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-845">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/errors/error_404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/tcpdf/examples/barcodes/example_1d_png.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/upload_success.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/upload_form.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/receipts.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/reports.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/doctypes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/user_agents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1426">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/foreign_chars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/mimes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/profiler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/smileys.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-744">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/add_customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/add_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/customer_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/left_bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pwd_reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/pwd_reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d8882_accounts.sql" />
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="117" column="25" selection-start-line="117" selection-start-column="25" selection-end-line="117" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/upper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/lower.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/foot_loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/head_loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/dashboard_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/customers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/pwd_reset_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="225" column="61" selection-start-line="225" selection-start-column="29" selection-end-line="225" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/encrypt_decrypt_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="323" column="44" selection-start-line="323" selection-start-column="44" selection-end-line="323" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

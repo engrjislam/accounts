@@ -1,0 +1,88 @@
+/*
+    To change this license header, choose
+    License Headers in Project Properties.
+    To change this template file, choose Tools |
+    Templates and open the template in the editor.
+
+    Created on : 01.01.2017
+    Author     : JOHIRUL ISLAM
+*/
+.login{
+    background-color: #123456;
+    color: #123456;
+    font-family: 'Lucida Grande','Gill Sans', 'Arial', 'Helvetica', 'Sans-serif';
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+div#login {
+    background-color: rgba(0, 0, 0, 0);
+    border: medium none;
+    margin: 0 auto;
+    padding: 15% 0 0;
+    text-align: center;
+    width: 270px;
+}
+.login_logo {
+    margin: 0 auto;
+    overflow: hidden;
+    color: #0262c2;
+    font-size: 39px;
+}
+div#login_notification {
+    margin-bottom: 5px;
+    margin-left: -15px;
+    margin-right: -15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.form td.value {
+    padding: 3px 0;
+    white-space: nowrap;
+}
+div#login input {
+    background-color: #1D1D1D;
+    border: 2px solid #0262c2;
+    border-radius: 10px;
+    color: #FFFFFF;
+    height: 40px;
+    padding: 0 1em;
+    width: 270px;
+}
+div#login input[type="submit"] {
+    background: none repeat scroll 0 0 #026200 !important;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-shadow: none;
+    cursor: pointer;
+}
+input#Save, input.submit {
+    margin-top: 10px;
+    text-align: center;
+    width: 150px;
+}
+button:focus,button:active,input:focus,input:active,select:focus,select:active,textArea:focus,textArea:active{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset, 0 0 8px rgba(82,168,236,0.6);
+    outline: 0 none;
+    z-index: 1;
+}
+div#login h3 {
+    color: #FFFFFF;
+}
+h3 {
+    font-size: 12px;
+    margin: 15px 0 3px;
+}
+.error{
+    background-color: #CCCCCC;
+    border: 2px solid #FF6347;
+    border-radius: 4px;
+    font-family: arial;
+    font-size: 15px;
+    height: 20px;
+    padding: 5px;
+}
+#forgotten_pwd {
+    color: snow;
+    text-decoration: none;
+}
